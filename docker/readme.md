@@ -24,6 +24,8 @@ Docker [설치](https://www.docker.com/get-started) (+ DockerHub 가입까지)
 
   <code> $ docker ps -a </code>
 
+  <code> $ docker network ls </code>
+
   4. 컨테이너 중지 / (재)실행 / bash 전달  / bash 연결
 
   <code> $ docker stop [NAME] </code>
