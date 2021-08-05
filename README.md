@@ -10,6 +10,6 @@
 
 <br/>
 
-<img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" />
+<img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" />
 
 1. Minikube & Docker [ 🔗 ](https://github.com/doyle-flutter/Docker-DockerCompose/blob/main/kube/MiniKubeNDocker/readme.md)
